@@ -175,7 +175,7 @@ Denoising diffusion probabilistic models (DDPMs) have recently achieved leading 
 
 # End-to-End Text-to-Speech
 
-<ruby>he commission believes, however</ruby>
+<ruby>the commission believes, however</ruby>
 <table>
 	<thead>
 		<tr>
